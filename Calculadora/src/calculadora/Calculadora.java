@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package calculadora;
-//Esto es un comentario mas
+//Esto es un comentario mas pero con comandos
 /**
  *
  * @author redes
